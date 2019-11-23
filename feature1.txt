@@ -1,3 +1,3 @@
 Feature 1 from master branch
 
-Update some text in master branch
+Again changed
